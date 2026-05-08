@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Eki Rokom
+
+This log tracks the cryptographic history and versioning for the song **Eki Rokom** (eki-rokom).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:36:08.232694 | `v1` | `15a4e274d1cb9c5d9b5a0af74462522ee5bf6d4154d40459883e94b2ff8a1ad0` | `dcd506b426c671eda52bafd5d532022f1b9c49833e144f6ed547013f09d444a3` | `2026-05-08_eki-rokom-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
